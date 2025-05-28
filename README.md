@@ -39,7 +39,3 @@ cd edgeledger-website
 
 - Customize the content in `index.html`, `style.css`, and `script.js` to fit your needs.
 - To host the project, upload it to any static file hosting service.
-
-## License
-
-This project is licenses under the MIT License.
